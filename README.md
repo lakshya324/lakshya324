@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! I'm Lakshya Sharma 👋</h1>
 <h3 align="center">A Passionate Machine Learning Developer from India</h3>
 
-<img align="right" width="500" src="https://acegif.com/wp-content/gif/anime-sleep-31.gif">
+<img align="right" width="400" src="https://acegif.com/wp-content/gif/anime-sleep-31.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshya324&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya324" />
@@ -9,7 +9,7 @@
 
 🚀 Passionate about coding, AI,<font color="orange"> and </font>data science <br>
 💻 Python enthusiast | Flutter app developer <br>
-🤖 Exploring the world<font color="blue"> of </font>Machine Learning<font color="orange"> and </font>Deep Learning <br>
+🤖 Exploring the world<font color="blue"> of </font>Machine Learning<font color="orange"> and </font>Deep Learning<br>
 📚 Lifelong learner <font color="blue">on</font> a mission <font color="blue">to</font> turn ideas <font color="red">into</font> code <br>
 
 
