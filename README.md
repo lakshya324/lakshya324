@@ -3,8 +3,9 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/73031725/141452897-6fe26f52-bdd1-48be-9a22-67603245b961.gif">
 
-
-[![](https://visitcount.itsvg.in/api?id=lakshya324&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lakshya324&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya324" />
+</p>
 
 🚀 Passionate about coding, AI,<font color="orange"> and </font>data science <br>
 💻 Python enthusiast | Flutter app developer <br>
