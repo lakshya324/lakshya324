@@ -1,17 +1,45 @@
-<h1 align="center">Hello, World! I'm Lakshya Sharma 👋</h1>
-<h3 align="center">A Passionate Python Developer</h3>
+<h1 align="center"><a herf="https://www.linkedin.com/in/lakshyasharma3/">Hello, World! I'm Lakshya Sharma 👋</a></h1>
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class GitHubProfile:
+
+    def __init__(self):
+        self.username = "lakshya324"
+        self.name = "Lakshya Sharma"
+        self.bio = "Python Developer | Data Science Enthusiast"
+        self.location = "Earth, Milky Way"
+        self.github_url = "https://github.com/lakshya324"
+        self.skills = ["Python", "Data Analysis", "Machine Learning", "Deep Learning", "App Development"]
+        self.interests = ["Open Source", "AI Ethics", "Data Visualization"]
+        
+    def say_hello(self):
+        print(f"👋 Hi there! I'm {self.name}.")
+        print(f"{self.bio}")
+        print(f"🌍 Location: {self.location}")
+        print(f"🌐 GitHub: {self.github_url}")
+        print("💼 Skills:")
+        for skill in self.skills:
+            print(f"   - {skill}")
+        print("🚀 Interests:")
+        for interest in self.interests:
+            print(f"   - {interest}")
+
+# Create an instance of your GitHubProfile
+profile = GitHubProfile()
+profile.say_hello()
+```
+<br>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/73031725/141452897-6fe26f52-bdd1-48be-9a22-67603245b961.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lakshya324&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya324" />
-</p>
 
 🚀 Passionate about coding, AI,<font color="orange"> and </font>data science <br>
 💻 Python enthusiast | Flutter app developer <br>
 🤖 Exploring the world<font color="blue"> of </font>Machine Learning<font color="orange"> and </font>Deep Learning<br>
 📚 Lifelong learner <font color="blue">on</font> a mission <font color="blue">to</font> turn ideas <font color="red">into</font> code <br>
-
+🌐 Let's connect and code together!
 
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -66,19 +94,19 @@
 
 
 ## 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lakshya324&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="lakshya324" />
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya324&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="lakshya324" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya324&theme=dark&hide_border=false" alt="lakshya324" /></p>
-
+![](https://github-readme-stats.vercel.app/api?username=lakshya324&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lakshya324&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya324&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lakshya324&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya324" />
+</p>
+
 ---
 
-<h3 align="center">🌐 Let's connect and code together!</h3>
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
