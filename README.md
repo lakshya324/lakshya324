@@ -1,8 +1,7 @@
 <h1 align="center"><a herf="https://www.linkedin.com/in/lakshyasharma3/">Hello, World! I'm Lakshya Sharma 👋</a></h1>
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+#!/user/bin/python
 
 class GitHubProfile:
 
@@ -27,7 +26,6 @@ class GitHubProfile:
         for interest in self.interests:
             print(f"   - {interest}")
 
-# Create an instance of your GitHubProfile
 profile = GitHubProfile()
 profile.say_hello()
 ```
