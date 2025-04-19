@@ -1,30 +1,36 @@
 <h1 align="center"><a herf="https://www.linkedin.com/in/lakshyasharma3/">Hello, World! I'm Lakshya Sharma 👋</a></h1>
 
 ```python
-#!/user/bin/python
+#!/usr/bin/python
 
 class GitHubProfile:
 
     def __init__(self):
         self.username = "lakshya324"
         self.name = "Lakshya Sharma"
-        self.bio = "Python Developer | Data Science Enthusiast"
-        self.location = "Earth, Milky Way"
+        self.bio = "🚀 Building VedaAI | Backend Dev & Gen-AI Explorer | IEEE Published"
+        self.location = "Somewhere between Flask routes and Tensor dimensions"
         self.github_url = "https://github.com/lakshya324"
-        self.skills = ["Python", "Data Analysis", "Machine Learning", "Deep Learning", "App Development"]
-        self.interests = ["Open Source", "AI Ethics", "Data Visualization"]
+        self.skills = [
+            "Python", "TypeScript", "FastAPI", "LangChain",
+            "Machine Learning", "Deep Learning", "AWS", "Docker"
+        ]
+        self.interests = [
+            "Gen-AI", "LLMs", "Anime", "Building Scalable Stuff"
+        ]
         
     def say_hello(self):
-        print(f"👋 Hi there! I'm {self.name}.")
+        print(f"👋 Yo! I'm {self.name}.")
         print(f"{self.bio}")
-        print(f"🌍 Location: {self.location}")
-        print(f"🌐 GitHub: {self.github_url}")
-        print("💼 Skills:")
+        print(f"📍 Location: {self.location}")
+        print(f"🔗 GitHub: {self.github_url}")
+        print("\n💡 Skills:")
         for skill in self.skills:
-            print(f"   - {skill}")
-        print("🚀 Interests:")
+            print(f"  🔹 {skill}")
+        print("\n🌟 Interests:")
         for interest in self.interests:
-            print(f"   - {interest}")
+            print(f"  🚀 {interest}")
+        print("\n💬 Life’s short — make it compile and ship cool things.")
 
 profile = GitHubProfile()
 profile.say_hello()
